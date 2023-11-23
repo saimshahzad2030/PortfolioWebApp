@@ -1,0 +1,16 @@
+.nav_ul li{
+    display: inline;
+    margin-left: 20px;
+    color: aliceblue;
+}
+.nav_ul{
+    display: inline-flex;
+    margin-left: 1%;
+}
+.anchor{
+    text-decoration: none;
+    color: white;
+}
+.SocialImages{
+    width: 25px;
+}

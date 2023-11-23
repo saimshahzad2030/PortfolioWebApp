@@ -1,0 +1,13 @@
+.logoImg{
+    width: 30%;
+    border-radius: 50%; 
+    margin-left: 100px;
+    opacity: 0; /* Initial opacity set to 0 for fade-in effect */
+    transition: opacity 1s ease; /* Define transition property */
+}
+
+
+
+  .show {
+    opacity: 1;
+  }

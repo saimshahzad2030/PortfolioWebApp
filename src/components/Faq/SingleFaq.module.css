@@ -1,0 +1,21 @@
+.faqText{
+    width: 80%;
+    margin: 0;
+}
+.mainDiv{
+    width: 80%;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.imageDiv img{
+    width: 40%;
+    display: inline;
+    border-radius: 50%; 
+    margin-left: 50px;
+}
+.imageDiv{
+    width: 25%;
+}

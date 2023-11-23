@@ -1,0 +1,43 @@
+.formDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 40%;
+     /* Apply margin to all elements except the last one */
+  & > * {
+    margin-bottom: 20px;
+  }
+
+  & > *:not(:last-child) {
+    margin-top: 10px;
+  }
+  }
+  
+ 
+  
+  .mainDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: auto;
+  }
+  
+  .button {
+    width: 100px;
+  }
+  
+  .field {
+    width: 300px;
+    display: inline;
+  }
+  .row{
+    display: flex;
+    flex-direction: row;
+    
+    
+      
+      
+  }
+  .row > P {
+    margin-left: 10px;
+  }

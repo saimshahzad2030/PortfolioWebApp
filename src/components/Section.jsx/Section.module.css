@@ -1,0 +1,15 @@
+.nav_ul li{
+    display: inline;
+    margin-left: 20px;
+    color: aliceblue;
+}
+.nav_ul{
+    margin-top: 12px;
+    display: flex;
+    margin-left: 20px;
+}
+.anchor{
+    text-decoration: none;
+    color: white;
+}
+

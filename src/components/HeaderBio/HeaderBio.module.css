@@ -1,0 +1,12 @@
+.headerBio{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin-left: 5px;
+}
+
+.headerBio h4 {
+    margin: 0; /* Remove default margin on the first h4 */
+    margin-bottom: 5px; /* Add a small margin between the two headings */
+    font-family: cursive;
+}

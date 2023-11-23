@@ -1,0 +1,26 @@
+/* Navbar.module.css */
+
+.nav {
+    width: 100%;
+    background-color: rgb(73, 73, 226);
+    height: 50px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logoImg {
+    width: 45px;
+    border-radius: 50%; /* Set border-radius to 50% for a circular appearance */
+    margin-left: 30px; /* Adjust the left margin as needed */
+  }
+  
+  .logoHeading {
+    margin-left: 30px; /* Adjust the left margin as needed */
+    color: white;
+  }
+  
+  .logoContainer {
+    display: flex;
+    align-items: center;
+  }
+  

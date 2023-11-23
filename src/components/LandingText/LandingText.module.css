@@ -1,0 +1,14 @@
+.bio {
+    text-align: center;
+    opacity: 0;
+    transform: translateX(100%); /* Initial position off-screen to the left */
+    transition: opacity 1s ease, transform 1s ease; /* Define transition properties */
+  }
+  
+  .bio.show {
+    opacity: 1;
+    transform: translateX(0); /* Move to the final position (0% from the left) */
+  }
+  .text{
+    font-family:monospace;
+  }
